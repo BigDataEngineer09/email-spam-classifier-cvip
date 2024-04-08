@@ -41,7 +41,7 @@ This is list of required packages and modules for the project to be installed :
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/omaarelsherif/Email-Spam-Detection-Using-Machine-Learning.git
+   git clone https://github.com/BigDataEngineer09/email-spam-classifier-cvip.git
    
 2. Open 'NLP_Email_spam_Classifier.ipynb' in Google Colab 
 ```
