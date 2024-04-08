@@ -12,8 +12,9 @@ The primary objective of this project is to build a robust spam detection model 
 
 
 ![working image](images/workflow.jpg)
-[Figure 1: Model evaluation and comparison] 
-*(Image created by author)*
+		Figure 1: Model evaluation and comparison
+
+			*(Image created by author)*
 
 ⭕ **Result**
 
