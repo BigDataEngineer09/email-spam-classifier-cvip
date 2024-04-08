@@ -35,13 +35,13 @@ This is list of required packages and modules for the project to be installed :
 🚩Install all required packages :
  ```sh
   pip install -r requirements.txt
-
+```
 
 <!-- INSTALLATION -->
 
 1. Clone the repo
    ```sh
    git clone https://github.com/BigDataEngineer09/email-spam-classifier-cvip.git
-   
+   ```
 2. Open 'NLP_Email_spam_Classifier.ipynb' in Google Colab 
-```
+
