@@ -52,6 +52,7 @@ This is list of required packages and modules for the project to be installed :
    ```
 2. Open 'NLP_Email_spam_Classifier.ipynb' in Google Colab 
 
-⭕-[Kaggle]: (https://www.kaggle.com/code/monishashrees/email-spam-filter-99-03)
-⭕-[Linkedin]: (https://www.linkedin.com/in/monisha-shree-6b8663156/)
+⭕**[Kaggle]:** (https://www.kaggle.com/code/monishashrees/email-spam-filter-99-03)
+
+⭕**[Linkedin]:** (https://www.linkedin.com/in/monisha-shree-6b8663156/)
 
