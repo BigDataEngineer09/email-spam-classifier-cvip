@@ -37,6 +37,7 @@ This is list of required packages and modules for the project to be installed :
   pip install -r requirements.txt
 ```
 
+🚩**How to access the code**
 <!-- INSTALLATION -->
 
 1. Clone the repo
