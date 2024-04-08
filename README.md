@@ -16,7 +16,7 @@ Figure 1: Workflow *(Image created by author)*
 
 ⭕ **Result**
 
-This analysis evaluated four classification models (Naive Bayes, Decision Tree, SVM, and Random Forest) for their performance on a binary classification task. All models achieved high accuracy, with SVM achieving the highest (0.9903) followed by Random Forest (0.9833), Naive Bayes and Decision Tree (both at 0.9807).
+This analysis evaluated four classification models (Naive Bayes, Decision Tree, SVM, and Random Forest) for their performance on a binary classification task. All models achieved high Recall, with SVM achieving the highest (0.9628) followed by Random Forest (0.9368), Naive Bayes and Decision Tree (both at 0.936).
 
 In terms of AUC (Area Under the ROC Curve), SVM again emerged as the leader (0.981), followed by Decision Tree and Random Forest (both at 0.966), and lastly Naive Bayes (0.966).
 ![working image](images/comparison.png)
