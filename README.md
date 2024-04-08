@@ -12,7 +12,7 @@ The primary objective of this project is to build a robust spam detection model 
 
 
 ![working image](images/workflow.jpg)
-Figure 1: Model evaluation and comparison *(Image created by author)*
+Figure 1: Workflow *(Image created by author)*
 
 ⭕ **Result**
 
@@ -20,6 +20,7 @@ This analysis evaluated four classification models (Naive Bayes, Decision Tree, 
 
 In terms of AUC (Area Under the ROC Curve), SVM again emerged as the leader (0.981), followed by Decision Tree and Random Forest (both at 0.966), and lastly Naive Bayes (0.966).
 ![working image](images/comparison.png)
+Figure 2: Model evaluation and comparison * *(Image created by author)*
 
 
 ⭕ **Conclusion**
